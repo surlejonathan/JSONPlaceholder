@@ -1,6 +1,16 @@
 {
-    "user": {
-      "id" : 1,
-      "name" : "Lil Jon"
+     "users": [
+    {
+      "id": "1",
+      "first_name": "Jonathan",
+      "last_name": "Surle",
+      "birthday": "1986-02-05T00:00:00.000Z"
+    },
+    {
+      "first_name": "Alicia",
+      "last_name": "Aubère",
+      "birthday": "1986-12-03T00:00:00.000Z",
+      "id": "GQ41bh1"
     }
+  ]
 }
